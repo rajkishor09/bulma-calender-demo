@@ -1,6 +1,6 @@
 # BulmaCalenderDemo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+Example app for bumlma calender implementation. This is the outcome of a tutorial i was follwing on meduim.com.This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
 
